@@ -1,2 +1,2 @@
 # QRCodeGenerator
-Generates QR Codes using qrcode library
+Generates QR Codes using Python qrcode library
